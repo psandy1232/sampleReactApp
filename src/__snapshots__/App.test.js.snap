@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <input
+      autocomplete="off"
+      class="formInput"
+      data-testid="testinput"
+      name="todoInput"
+      placeholder="Enter your list here"
+      type="text"
+      value="upper"
+    />
+    <button
+      class="btn btn-primary"
+      data-testid="btnsub"
+      name="button"
+      type="button"
+    >
+      Add
+    </button>
+  </div>
+</div>
+`;
